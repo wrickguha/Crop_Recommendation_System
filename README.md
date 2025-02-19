@@ -33,7 +33,7 @@ The model is trained on a publicly available dataset that contains soil and clim
 
 ```bash
 
-git clone https://github.com/your-username/Crop-Recommendation-System.git
+git clone https://github.com/wrickguha/Crop-Recommendation-System.git
 ```
 
 2️⃣ Install the required dependencies:
